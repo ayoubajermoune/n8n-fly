@@ -1,0 +1,7 @@
+app = "n8n-gpt"
+
+primary_region = "ams"
+
+[http_service]
+  internal_port = 5678
+  force_https = true
